@@ -41,8 +41,7 @@ job, I definitely would not be where I am today. And I am so, so grateful for th
 happen. My story sounds like it may have been a breeze, but trust me there were many many "rock-bottom" moments. I'm
 sure any CS/SE student at Auburn would agree with me.
 
-Moral of the story, if your parental guardian is constantly getting mad at you for having fun, turn the fun into a career.
-(no I do not play video games as a career, but at least I get to sit at a computer and get paid!)
+Moral of the story, if your parental guardian is constantly getting mad at you for having fun, turn the fun into a career!
 
 <!--
 **phamsarah/phamsarah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
