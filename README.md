@@ -29,6 +29,8 @@ Before my last semester at Auburn University, TradeStation reached out to me. I 
 and had a passion for software. So I interviewed with the team, loved the culture (remote work, high salary, cryptocurrency, 
 stock exchanges ... everything I love!), and received an offer the same day!
 
+Now I work at Block as a Android Engineer for the Customer Foundations team!
+
 I think about this often, I would not have gotten my first internship if it wasn't for the Hackathon. If it wasn't for the
 internship, I wouldn't have gotten my first app development job. If I did not get my first job, I would not be where I am 
 today. And because of that I am so, so grateful for the people who believed in me and helped me reach my goals.
